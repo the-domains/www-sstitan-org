@@ -1,0 +1,28 @@
+name: www.sstitan.org
+favicon: null
+layout_spectrum: 0.13982559205032885
+typography_spectrum: 0.007632537744939327
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.4509235143195838
+  lightness: 0.5257990160025656
+  saturation: 0.8380323168821633
+  rhythmicContrast: 0.43140529887750745
+purpose: []
