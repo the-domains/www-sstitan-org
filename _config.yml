@@ -1,29 +1,18 @@
-name: www.sstitan.org
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.56095
-title: SS Titan Foundation
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#100c0b'
-    - '#a19c89'
-    - '#706b65'
-    - '#555150'
-    - '#2f3034'
+    - '#A8A088'
+    - '#000000'
+    - '#989080'
+    - '#000000'
+    - '#000000'
   brandStrength: 0.9375
   lightness: 0.3125
-  saturation: 0.0625
   rhythmicContrast: 1
+  saturation: 0.0625
+cta: {}
+layout_spectrum: 0
+name: www.sstitan.org
+opengraph: {}
 purpose: []
+typography_spectrum: 0.56095
