@@ -1,18 +1,18 @@
-analytics: {}
+layout_spectrum: 0
+typography_spectrum: 0.56095
 color:
   brandColors:
-    - '#A8A088'
-    - '#000000'
-    - '#989080'
-    - '#000000'
-    - '#000000'
-  brandStrength: 0.9375
-  lightness: 0.3125
-  rhythmicContrast: 1
-  saturation: 0.0625
+    - '#DDDCC5'
+    - '#958976'
+    - '#611427'
+    - '#1D2326'
+    - '#6A6A61'
+  brandStrength: 0.6630693441256881
+  lightness: 0.03606944903731346
+  rhythmicContrast: 0.5239285787101835
+  saturation: 0.2814558872487396
+analytics: {}
 cta: {}
-layout_spectrum: 0
 name: www.sstitan.org
 opengraph: {}
 purpose: []
-typography_spectrum: 0.56095
